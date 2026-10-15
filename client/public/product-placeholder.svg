@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="42" y1="18" x2="592" y2="462" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1F0FF"/>
+      <stop offset="1" stop-color="#E8EEF8"/>
+    </linearGradient>
+    <linearGradient id="box" x1="238" y1="135" x2="403" y2="353" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8279F5"/>
+      <stop offset="1" stop-color="#5146E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="320" cy="239" r="137" fill="#fff" fill-opacity=".66"/>
+  <path d="m236 203 84-44 84 44v99l-84 45-84-45v-99Z" fill="url(#box)"/>
+  <path d="m236 203 84 47 84-47m-84 47v97m-42-120 84 47" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9" stroke-opacity=".88"/>
+  <path d="m299 171 42 23" stroke="#fff" stroke-linecap="round" stroke-width="9"/>
+  <text x="320" y="397" fill="#667085" font-family="Arial,sans-serif" font-size="17" text-anchor="middle">Product image unavailable</text>
+</svg>
